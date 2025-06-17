@@ -148,7 +148,7 @@ class _HomePageState extends State<HomePage> {
                     Positioned.fill(
                       child: Container(
                         padding: const EdgeInsets.symmetric(
-                          horizontal: 50, 
+                          horizontal: 30,
                           vertical: 0,
                         ),
                         child: Row(
