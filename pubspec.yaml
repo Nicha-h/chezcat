@@ -81,6 +81,11 @@ flutter:
     - assets/sfx/slap3.mp3
     - assets/sfx/slap4.mp3
     - assets/sfx/slap5.mp3
+    - assets/sfx/splash1.mp3
+    - assets/sfx/splash2.mp3
+    - assets/sfx/splash3.mp3
+    - assets/sfx/splash4.mp3
+    - assets/sfx/splash5.mp3
   
   fonts:
     - family: Jua
